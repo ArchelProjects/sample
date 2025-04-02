@@ -1,2 +1,2 @@
-concatinate = "hello world " + "hello philippines"
+concatinate = "hello world and " + "hello philippines"
 print(concatinate)  
